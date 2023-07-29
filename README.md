@@ -20,4 +20,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aiman-khan&show_icons=true&locale=en&layout=compact" alt="aiman-khan" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aiman-khan&" alt="aiman-khan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aiman-sartaj&" alt="aiman-sartaj" /></p>
