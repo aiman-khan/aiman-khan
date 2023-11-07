@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aiman</h1>
 <!-- <h3 align="center">"Fluttering my way through the world of mobile app development - Turning innovative ideas into reality, one pixel at a time.</h3>
  -->
-- 🔭 I’m currently working in Flutter
+🔭 I’m currently working in Flutter
 
 - 🌱 I’m looking to collaborate on **Flutter Projects**
 
