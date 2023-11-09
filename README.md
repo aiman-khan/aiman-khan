@@ -5,7 +5,7 @@
 
 🌱 I’m looking to collaborate on **Flutter Projects**
 
-- 👯 I'm looking to get an opportunity in **Cyber Security Firm**
+👯 I'm looking to get an opportunity in **Cyber Security Firm**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
