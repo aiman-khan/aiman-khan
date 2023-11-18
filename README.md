@@ -2,7 +2,9 @@
 <!-- <h3 align="center">"Fluttering my way through the world of mobile app development - Turning innovative ideas into reality, one pixel at a time.</h3>
  -->
 🔭 I’m currently working in Flutter
+
 🌱 I’m looking to collaborate on Flutter Projects
+
 👯 I'm looking to get an opportunity in **Cyber Security Firm**
 
 <h3 align="left">Connect with me:</h3>
