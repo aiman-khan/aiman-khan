@@ -1,9 +1,10 @@
 <h1 align="center">Hi, I'm Aiman</h1>
 <!-- <h3 align="center">"Fluttering my way through the world of mobile app development - Turning innovative ideas into reality, one pixel at a time.</h3>
  -->
-🔭 I’m currently working in Flutter and Laravel
-🌱 I’m looking to collaborate on Flutter Projects
-👯 I'm looking to get an opportunity in **Cyber Security Firm**
+
+- 🔭 I’m currently working on **Flutter and Laravel**
+
+- 👯 I’m looking to collaborate on **Flutter Projects**
 
 
 <h3 align="left">Connect with me:</h3>
