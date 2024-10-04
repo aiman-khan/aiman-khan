@@ -7,4 +7,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aiman-s-khan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aiman-s-khan/" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aiman-khan&" alt="aiman-khan" /></p>
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=aiman-khan&theme=dark&hide_border=false)<br/>
