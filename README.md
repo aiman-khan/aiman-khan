@@ -9,5 +9,5 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=aiman-khan&theme=dark&hide_border=false)<br/>
+<!--![](https://github-readme-streak-stats.herokuapp.com/?user=aiman-khan&theme=dark&hide_border=false)<br/> --->
 ![aiman-khan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=aiman-khan&theme=vue-dark&hide_border=true)
